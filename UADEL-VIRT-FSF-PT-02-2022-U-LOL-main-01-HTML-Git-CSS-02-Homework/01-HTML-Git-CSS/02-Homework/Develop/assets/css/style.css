@@ -19,8 +19,8 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-
-.header h1 .seo {
+/* ".header h1" removed for simplicity */
+.seo {
     color: #d9dcd6;
 }
 
