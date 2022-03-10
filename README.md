@@ -12,3 +12,5 @@ Actions performed within this project:
 Below you will find a screenshot and a link to the deployed application.
 
 ![application image](Horiseon-screenshot.png)
+
+Horiseon link:  https://gkal14.github.io/Horiseon-Refactor/
